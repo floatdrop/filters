@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["Filter","The filter trait"],["IntoFilter","Trait for converting something into a Filter"]]});

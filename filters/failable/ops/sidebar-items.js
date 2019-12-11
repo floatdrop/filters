@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["and","AND implementation."],["bool","FailableBool Filter implementation, so we can insert this in filter construction"],["map","Map implementation."],["not","NOT implementation."],["or","OR implementation."],["xor","XOR implementation."]]});

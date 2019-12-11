@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["impl_failable_operators","Variant of impl_operators!() macro for FailableFilter types"],["impl_operators","Creates operator implementations for a Filter struct Currently only Fn and Filter implementations are handled"],["make_filter",""]],"mod":[["failable",""],["filter","The filter implementation"],["impl_traits",""],["iter",""],["ops",""]]});
