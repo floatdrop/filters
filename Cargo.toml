@@ -17,3 +17,10 @@ repository    = "https://github.com/matthiasbeyer/filters"
 
 [features]
 unstable-filter-as-fn = []
+
+[dev-dependencies]
+criterion = "0.3"
+
+[[bench]]
+name = "complex_filter"
+harness = false
